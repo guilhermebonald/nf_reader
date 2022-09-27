@@ -23,4 +23,3 @@ for arquivo in files_set:
 
 print(f"--- Notas somadas: {len(values)} ---\n--- Total: R${sum(values)} ---")
 sleep(60)
-#python
